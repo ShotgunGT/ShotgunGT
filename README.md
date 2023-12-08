@@ -1,51 +1,58 @@
-Hello i am funni gorilla tag player and sometimes content creator!!1!
+Hello! My names shotgun and I play gorilla tag and make content! (sometimes) 
 
- here cool epik mods i like
- 
- https://github.com/SakuraaDevelopment/SkyMapFix
- 
- https://github.com/RushKiller001/LightningDisable
+Q: What's in your plugins folder?
+A: In my plugins folder, I have the following mods:
 
- https://github.com/The-Graze/ImproovedComputer
+https://github.com/BepInEx/BepInEx.Utility
 
- https://github.com/FURY909/Drone-mod
+https://github.com/Auros/Bepinject
 
- https://github.com/FURY909/computer-backgrounds
+https://github.com/pl2w/CityMirrorFix
 
- https://github.com/FURY909/leaderboard-colors
+https://github.com/developer9998/ComputerInterface
 
- https://github.com/developer9998/EnthusiastHeadphones
+https://github.com/BepInEx/BepInEx.ConfigurationManager
 
- https://github.com/pl2w/StrangeCosmetics
+https://github.com/KyleTheScientist/Bark
 
- https://github.com/OctoBurr/GorillaUI
+https://github.com/Mathijs-Bakker/Extenject
 
- https://github.com/JosFa1/FrozoneMod
+https://github.com/developer9998/FaceScarfPatch
 
- https://github.com/bjrsinge/GorillaSpeech
+https://github.com/ManlyMarco/FPSCounter
 
- https://github.com/AngelVibesGT/SkyboxChanger
+https://github.com/The-Graze/GorillaFriends
 
- https://github.com/BzzzThe18th/CustomTagSounds
+GorillaOutfitCatalog (beta mod only given to patron exclusives of dev9998)
 
- https://github.com/BzzzThe18th/GorillaShotgun
+https://github.com/developer9998/GorillaShirts
 
- https://github.com/AngelVibesGT/MonkePaint-V-BETA
+https://github.com/BepInEx/BepInEx.GraphicsSettings
 
- https://github.com/developer9998/DevBlinkMod
+https://github.com/developer9998/HoldablePad
 
- https://github.com/bjrsinge/GorillaSteps
+https://github.com/The-Graze/ImproovedComputer
 
- https://github.com/lunakittyyy/SlingshotIndicatorAlways
+https://github.com/CrafterBotOfficial/MonkeNotificationLib
 
- https://github.com/lunakittyyy/LunaDrowning
+https://github.com/Monosphere/Mono-Sandbox-Mod
 
- https://github.com/developer9998/WardrobeEnhancements
+https://github.com/lunakittyyy/OldHoldables
 
- https://github.com/KyleTheScientist/Bark
+https://github.com/The-Graze/ProfilePictures
 
- https://github.com/lunakittyyy/DisplayNames
- 
- https://github.com/zenonthexenon/MonkeClimb
- 
- https://github.com/DecalFree/RaiseAGorilla
+https://github.com/RushKiller001/TpHome
+
+https://github.com/legoandmars/Utilla
+
+https://github.com/developer9998/WardrobeEnhancements
+
+https://github.com/The-Graze/WhoIsTalking
+
+
+
+Q: What's in your patchers folder?
+A: Just the bepinex splashscreen mod. 
+
+
+https://github.com/BepInEx/BepInEx.SplashScreen
