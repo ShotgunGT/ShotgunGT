@@ -3,8 +3,6 @@ Hello! My names shotgun and I play gorilla tag and make content! (sometimes)
 Q: What's in your plugins folder?
 A: In my plugins folder, I have the following mods:
 
-https://github.com/BepInEx/BepInEx.Utility
-
 https://github.com/Auros/Bepinject
 
 https://github.com/pl2w/CityMirrorFix
@@ -20,6 +18,8 @@ https://github.com/Mathijs-Bakker/Extenject
 https://github.com/developer9998/FaceScarfPatch
 
 https://github.com/ManlyMarco/FPSCounter
+
+https://github.com/BrokenSt0ne/GorillaDebugger
 
 https://github.com/The-Graze/GorillaFriends
 
