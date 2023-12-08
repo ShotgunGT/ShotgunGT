@@ -31,8 +31,6 @@ https://github.com/BepInEx/BepInEx.GraphicsSettings
 
 https://github.com/developer9998/HoldablePad
 
-https://github.com/The-Graze/ImproovedComputer
-
 https://github.com/CrafterBotOfficial/MonkeNotificationLib
 
 https://github.com/Monosphere/Mono-Sandbox-Mod
