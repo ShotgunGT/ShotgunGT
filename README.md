@@ -17,6 +17,8 @@ https://github.com/Mathijs-Bakker/Extenject
 
 https://github.com/developer9998/FaceScarfPatch
 
+https://github.com/GT2-GT/GorillaCosmeticsFix
+
 https://github.com/developer9998/GorillaFriends
 
 GorillaOutfitCatalog (beta mod only given to patron exclusives of dev9998)
@@ -32,8 +34,6 @@ https://github.com/lunakittyyy/OldHoldables
 https://github.com/RushKiller001/TpHome
 
 https://github.com/legoandmars/Utilla
-
-https://github.com/developer9998/WardrobeEnhancements
 
 WalkingSimulator (sometimes)
 
